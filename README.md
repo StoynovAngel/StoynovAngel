@@ -3,12 +3,12 @@
 # 📊 GitHub Stats:
 <table>
   <tr>
-    <td style="width: 50%;">
+    <td style="width: 100%;">
       <img src="https://github-readme-stats.vercel.app/api?username=stoynovangel&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stoynovangel&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-    <td style="width: 50%;">
+    <td style="width: 100%;">
   </tr>
 </table>
 

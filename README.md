@@ -8,7 +8,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/angel-stoynov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/angel-stoynov/" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stoynovangel&show_icons=true&locale=en&layout=compact" alt="stoynovangel" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stoynovangel&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="stoynovangel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stoynovangel&show_icons=true&locale=en" alt="stoynovangel" /></p>
 

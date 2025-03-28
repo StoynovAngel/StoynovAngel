@@ -12,7 +12,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stoynovangel&show_icons=true&locale=en" alt="stoynovangel" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=StoynovAngel&" alt="stoynovangel" /></p>
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
